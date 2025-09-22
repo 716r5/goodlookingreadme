@@ -1,2 +1,2 @@
 # goodlookingreadme
-Generates A README/ description for your hackathn based off your project 
+Generates A README/ description for your hackathn based off your project for when you don't want to write on yourself. Isn;t building the project enough, now you have to rack your brains figuring out what to write on the devpost becasue attention is econmoy or whatever they are saying nowdays. Good looking readme will save the day. link your github link project and it'll fix it up for you. features(1) write in a devpost way (2) write in a guthub way 
