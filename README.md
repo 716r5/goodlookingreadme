@@ -7,3 +7,9 @@ Writes in a Devpost-friendly style (storytelling, impact-focused)
 Writes in a GitHub-friendly style (clear, technical, structured)
 
 tldr A tool that automatically generates a beautiful, informative README for your project to streamline project documentation and help other developers quickly understand your work.
+
+Core GitHub link input, Devpost & GitHub writeup generation, basic UI
+AI/NLP Features	Tone selector, explain-my-code, summarization, tone analyzer
+Repo Intelligence	Auto-detect tech stack, contributors, badges, demo links
+Smart Formatting & Templates	Customizable sections, template selector, markdown beautifier
+Stretch/Creative Features	Social media thread generator, accessibility checker, plugin mode
